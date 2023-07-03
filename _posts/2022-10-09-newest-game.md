@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Newest Game"
-summary: "Lead Programmer and Designer"
+title:  "Twisted Space"
+summary: "Game Designer and Programmer"
 date:   2022-10-09 15:39:40
 preview: /assets/postpreview.png
 ---
 
 ![Picture 1](/assets/fullsize.png)
 
-Here's some impressive stuff I did:
+Trabalhei em:
 
-* Added ChatGPT for NPC dialogues
-* Won game of the year from 200 publications
-* Was named *Time* person of the year (as a video game)
+* Game Design do jogo
+* Programação do protótipo do jogo
+* Participação da GMTK 2022
