@@ -2,7 +2,7 @@
 layout: post
 title:  "Twisted Space"
 summary: "Game Designer and Programmer"
-date:   2023-07-03 21:06
+date:   2023-07-03 21:30
 preview: /assets/Twisted_Space_Aliens.png
 ---
 
