@@ -3,10 +3,10 @@ layout: post
 title:  "Older Game"
 summary: "Associate Technical Designer"
 date:   2023-07-03 21:16
-preview: /assets/Death Guardian.png
+preview: /assets/death_guardian.png
 ---
 
-![Picture 1](/assets/Death Guardian.png)
+![Picture 1](/assets/death_guardian.png)
 
 Jogo feito para gamejam interna na Dev-U.
 
