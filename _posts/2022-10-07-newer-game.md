@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Newer Game"
-summary: "Senior Technical Designer"
-date:   2022-10-07 15:39:40
-preview: /assets/postpreview.png
+title:  "Colorful Minds"
+summary: "Gameplay Designer"
+date:   2023-07-03 21:09
+preview: /assets/Colorful minds.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/minds_gameplay.png)
 
-Put down info here, either in bullets or paragraphs.
+Jogo feito para a Gamejam+, ondo você pinta o mundo dentro da cabeça de outras pessoas.
+
+Ajudei conceitualização das mecânicas do jogo.
