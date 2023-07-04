@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Oldest Game"
-summary: "Design Intern"
-date:   2022-09-06 15:39:40
-preview: /assets/postpreview.png
+title:  "Night's Edge"
+summary: "Level Designer and Gameplay Designer"
+date:   2023-07-03 21:18
+preview: /assets/nightsedge.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/nightsedge.png)
 
-Put down info here, either in bullets or paragraphs.
+Roguelike feito em gamejam na Dev-U.
+
+Me envolvi mais na parte de level design e gameplay, enquanto outro game designer focava na história.
