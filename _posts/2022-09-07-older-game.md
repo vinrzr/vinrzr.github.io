@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Older Game"
-summary: "Associate Technical Designer"
+title:  "Death Guardian"
+summary: "Game Designer"
 date:   2023-07-03 21:16
 preview: /assets/death_guardian.png
 ---
