@@ -2,10 +2,12 @@
 layout: post
 title:  "Older Game"
 summary: "Associate Technical Designer"
-date:   2022-09-07 15:39:40
-preview: /assets/postpreview.png
+date:   2023-07-03 21:16
+preview: /assets/Death Guardian.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/Death Guardian.png)
 
-Put down info here, either in bullets or paragraphs.
+Jogo feito para gamejam interna na Dev-U.
+
+Fiz toda a parte de game design e boa parte da configuração no Unity.
