@@ -2,7 +2,7 @@
 layout: post
 title:  "Colorful Minds"
 summary: "Gameplay Designer"
-date:   2023-07-03 21:09
+date:   2023-07-03 21:29
 preview: /assets/Colorful minds.png
 ---
 
