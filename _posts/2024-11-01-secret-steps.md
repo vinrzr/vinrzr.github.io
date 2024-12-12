@@ -10,6 +10,6 @@ preview: /assets/coverart.png
 
 Trabalhei em:
 
-*Game Design
-*Programação
-*Arte
+* Game Design
+* Programação
+* Arte
