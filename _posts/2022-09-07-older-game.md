@@ -8,6 +8,6 @@ preview: /assets/death_guardian.png
 
 ![Picture 1](/assets/death_guardian.png)
 
-Jogo feito para gamejam interna na Dev-U.
+Game made for internal gamejam at Dev-U.
 
-Fiz toda a parte de game design e boa parte da configuração no Unity.
+I did all the game design and most of the configuration in Unity.
