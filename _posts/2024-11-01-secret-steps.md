@@ -7,7 +7,7 @@ preview: /assets/coverart.png
 ---
 
 ![Picture 1](/assets/coverart.png)
-
+![Picture 2](/assets/secret_1.png)
 [Play](https://noisepudding.itch.io/secret-steps)
 
 Game made for the GameOff 2024 Jam.
