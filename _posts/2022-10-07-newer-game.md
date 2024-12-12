@@ -8,6 +8,6 @@ preview: /assets/Colorful minds.png
 
 ![Picture 1](/assets/minds_gameplay.png)
 
-Jogo feito para a Gamejam+, ondo você pinta o mundo dentro da cabeça de outras pessoas.
+Prototype made for Gamejam+, where you paint the world inside other people's heads.
 
-Ajudei conceitualização das mecânicas do jogo.
+I was part of the game design.
