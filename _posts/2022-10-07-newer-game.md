@@ -11,3 +11,5 @@ preview: /assets/Colorful minds.png
 Prototype made for Gamejam+, where you paint the world inside other people's heads.
 
 I was part of the game design.
+
+[Play the Game!](https://ikarosiqueira.itch.io/colorful-minds)
