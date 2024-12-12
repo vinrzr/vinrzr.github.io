@@ -8,10 +8,15 @@ preview: /assets/coverart.png
 
 ![Picture 1](/assets/coverart.png)
 ![Picture 2](/assets/secret_1.png)
-[Play](https://noisepudding.itch.io/secret-steps)
+![Picture 3](/assets/secret_2.png)
+![Picture 4](/assets/secret_3.png)
+![Picture 5](/assets/secret_4.png)
+
 
 Game made for the GameOff 2024 Jam.
 
 I worked on:
 
 Everything! no 3rd party assets used.
+
+[Play the Game!](https://noisepudding.itch.io/secret-steps)
