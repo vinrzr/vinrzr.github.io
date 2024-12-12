@@ -8,6 +8,6 @@ preview: /assets/nightsedge.png
 
 ![Picture 1](/assets/nightsedge.png)
 
-Roguelike feito em gamejam na Dev-U.
+Rogue-Like made for a Dev-U Gamejam
 
-Me envolvi mais na parte de level design e gameplay, enquanto outro game designer focava na história.
+I got more involved in the level design and gameplay, while another game designer focused on the story.
