@@ -8,8 +8,8 @@ preview: /assets/Twisted_Space_Aliens.png
 
 ![Picture 1](/assets/Twisted_gameplay.png)
 
-Trabalhei em:
+I worked on:
 
-* Game Design do jogo
-* Programação do protótipo do jogo
-* Participação da GMTK 2022(Feito apenas em 2 dias!)
+* Game Design of the game
+* Game prototype programming
+* Participation in GMTK 2022 (Made in just 2 days!)
