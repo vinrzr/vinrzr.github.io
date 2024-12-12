@@ -8,8 +8,10 @@ preview: /assets/coverart.png
 
 ![Picture 1](/assets/coverart.png)
 
-Trabalhei em:
+[Play](https://noisepudding.itch.io/secret-steps)
 
-* Game Design
-* Programação
-* Arte
+Game made for the GameOff 2024 Jam.
+
+I worked on:
+
+Everything! no 3rd party assets used.
