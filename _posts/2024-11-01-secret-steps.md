@@ -6,6 +6,8 @@ date:   2024-11-1 21:30
 preview: /assets/coverart.png
 ---
 
+[Play the Game!](https://noisepudding.itch.io/secret-steps)
+
 ![Picture 1](/assets/coverart.png)
 ![Picture 2](/assets/secret_1.png)
 ![Picture 3](/assets/secret_2.png)
@@ -19,4 +21,4 @@ I worked on:
 
 Everything! no 3rd party assets used.
 
-[Play the Game!](https://noisepudding.itch.io/secret-steps)
+
