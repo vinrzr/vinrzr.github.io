@@ -3,7 +3,7 @@ layout: post
 title:  "Carnaval Run "
 summary: "Game Designer and Programmer"
 date:   2025-03-10 21:30
-preview: /assets/coverart.png
+preview: /assets/carnaval_1.png
 ---
 
 [Play the Game!](https://noisepudding.itch.io/carnaval-run)
